@@ -1,0 +1,2 @@
+while T:
+    print("salam")

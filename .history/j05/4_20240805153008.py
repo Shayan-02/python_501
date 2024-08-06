@@ -1,12 +1,10 @@
-# input users name
+# 
 u1_name = input("enter your name: ")
 u2_name = input("enter your name: ")
 
-# input users choice
 u1 = input(f"{u1_name} enter your choice(""rock"",""paper"",""scissors""): ")
 u2 = input(f"{u2_name} enter your choice(""rock"",""paper"",""scissors""): ")
 
-# conditions
 if u1 == "rock" or u1 == "paper" or u1 == "scissors" and u2 == "rock" or u2 == "paper" or u2 == "scissors":
     if u1 == u2:
         print("it's a tie")
