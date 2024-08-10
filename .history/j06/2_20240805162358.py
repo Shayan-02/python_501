@@ -1,1 +1,0 @@
-for miz in range()

@@ -1,2 +1,0 @@
-while T:
-    print("salam")
