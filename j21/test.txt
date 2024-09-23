@@ -1,0 +1,22 @@
+
+salam
+hello a sample text file.
+It is created for practice purposes.
+You can use this file to practice reading and writing operations in various programming languages.
+Feel free to modify, append, or delete content in this file.
+
+List of items:
+1. Apples
+2. Oranges
+3. Bananas
+
+End of file.
+salam
+salam
+hello
+salam
+hello
+salam
+hello
+salam
+hello
