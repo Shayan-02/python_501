@@ -4,7 +4,7 @@ class Say:
         self.name = name
         self.age = age
     def sayHello(self):
-        print("Hello")
+        print("Hello", self.name)
     @staticmethod
     def isAdult(age):
         if age > 18:
